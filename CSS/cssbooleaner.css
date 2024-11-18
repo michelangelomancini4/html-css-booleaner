@@ -2,7 +2,7 @@ body {
     font-size: 16px;
 }
 /* logo con pattern */
-.top-photo {
+header {
     background-color: rgb(65, 196, 228);
     background-image: url(../img/img/pattern.png)  
     
@@ -31,9 +31,22 @@ h1 {
     font-size: 10px;
 }
 /* tabella */
+
+table{
+    width: 100%;
+    margin: 0;
+}
 thead{
     background-color: rgb(20, 183, 211);
      color: white;
+     margin: 0;
+}
+th{
+    height: 40px;
+}
+td {
+    height: 70px;
+    
 }
 .righe-celesti{
     background-color: aqua;
