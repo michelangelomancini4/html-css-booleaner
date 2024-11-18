@@ -11,6 +11,7 @@ body {
     width: 200px;
     height: 100px;
 }
+/* titolo e didascalie */
 h1 {
     font-size: 55px;
 }
@@ -29,9 +30,32 @@ h1 {
 .sottotesto{
     font-size: 10px;
 }
+/* tabella */
 thead{
     background-color: rgb(20, 183, 211);
-    color: white;
+     color: white;
 }
+.righe-celesti{
+    background-color: aqua;
+}
+#finale {
+    color: gray;
+    font-size: 20px;
+}
+/* foto finali */
+
+ .contain{
+    position: relative;
+    
+ }
+ .scrittabianca {
+    position: absolute;
+    top: 3px;
+    left: 5px;
+    color: white;
+    font-size: 30px;
+ }
+
+ 
 
 /*  */
