@@ -1,0 +1,30 @@
+body {
+    font-size: 13px;
+}
+/* logo con pattern */
+.top-photo {
+    background-color: rgb(65, 196, 228);
+    background-image: url(../img/img/pattern.png)  
+    
+}
+#booleaner {
+    width: 200px;
+    height: 100px;
+}
+h1 {
+    font-size: 55px;
+}
+#testo-grigio{
+    color: gray;
+    font-size: 20px;
+}
+#testo-blu{
+    font-size: 20px;
+    color: rgb(22, 193, 202);
+}
+#data-grigia{
+    color: gray;
+    font-size: 15px;
+}
+
+/*  */
